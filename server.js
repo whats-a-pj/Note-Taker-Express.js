@@ -1,7 +1,7 @@
 //this helps connect express and create paths
 const express = require("express");
 const path = require("path");
-const noteDB = require('./develop/db/db.json');
+const noteDB = require('./db/db.json');
 const fs = require("fs");
 
 const app = express();
