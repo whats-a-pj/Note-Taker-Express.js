@@ -24,7 +24,13 @@ An application that can be used to write and save notes. This uses an Express.js
 <details>
 <summary> Screenshot of Site & Repo Links </summary>
 
+Railway Link: https://railway.app/project/813c7006-7941-4e8b-9acc-415e502c3cb3
 
+Home page
+![Screenshot of website](img/working-site.png)
+
+After you click on a saved note
+![Screenshot of website](img/saved-note.png)
 
 </details>
 
@@ -70,6 +76,8 @@ https://www.npmjs.com/package/uuid
 
 https://www.geeksforgeeks.org/node-js-fs-readfilesync-method/
 
+I had a study group with Brian Whisler, Jeremy Rapich and Salvador Mejia on 9/3 where we went over Express.js and a bit of SQL.
 
+Also had help from TA's CJ Sanders, Trever Oveson and Jacek Hacking, surprised to find out all I really needed to do was change a single line of code to get everything up and running!
 
 </details>
